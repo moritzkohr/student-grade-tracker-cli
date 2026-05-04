@@ -28,3 +28,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Env / Secrets
+.env
+.env.local
+.env.*.local
