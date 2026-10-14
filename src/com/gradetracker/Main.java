@@ -1,4 +1,4 @@
-package com.gradetracker.main.java;
+package com.gradetracker;
 
 
 public class Main {
