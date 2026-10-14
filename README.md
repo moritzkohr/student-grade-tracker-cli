@@ -268,10 +268,9 @@ release/v1.1        → locked, complete v1.1 (adds FOS and BOS)
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Moritz Ruben Kohr**
+- LinkedIn: [linkedin.com/in/moritz-r-kohr](https://www.linkedin.com/in/moritz-r-kohr-b4a921333/)
+- GitHub: [@moritzkohr](https://github.com/moritzkohr)
 
 ## 🔗 Related Projects
 - [Student Grade Tracker — JavaFX GUI (v2.0)](https://github.com/yourusername/student-grade-tracker-gui) *(Coming Soon)*
